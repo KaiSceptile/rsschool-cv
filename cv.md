@@ -1,15 +1,16 @@
 1. My full name is Artyom Knyukh.
 2. Contacs:
-*Phone: +375297966799
-*Telegram: @KaiSceptile
-*Email: kaisceptile.yandex.ru
-3. I'm a second-year student of BSUIR. The third semester finished 2 month ago, and it will be soon practical work. I hope to end this curse successfully and to be taken on.
+* Phone: +375297966799
+* Telegram: @KaiSceptile
+* Email: kaisceptile.yandex.ru
+3. I'm a second-year student of BSUIR. The third semester finished 2 month ago, and it will be soon practical work. 
+I hope to end this curse successfully and to be taken on.
 4.Skills:
-*Delphi
-*C
-*HTML&CSS
-*PHP
-*Javascript(studying now)
+* Delphi
+* C
+* HTML&CSS
+* PHP
+* Javascript(studying now)
 5. Code example:
 function calculate(...arg1){
 let sum=0;
