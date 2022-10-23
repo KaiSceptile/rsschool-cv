@@ -3,14 +3,15 @@
 * Phone: +375297966799
 * Telegram: @KaiSceptile
 * Email: kaisceptile.yandex.ru
-3. I'm a second-year student of BSUIR. The third semester finished 2 month ago, and it will be soon practical work. 
-I hope to end this curse successfully and to be taken on.
+3. I'm a third-year student of BSUIR. Almost finished RSS Scopes.
 4. Skills:
 * Delphi
 * C
+* C#
+* C++
 * HTML&CSS
 * PHP
-* Javascript(studying now)
+* Javascript
 5. Code example:
 ```
 function calculate(...arg1){
@@ -27,4 +28,4 @@ let sumerrize=function(...arg2){let sum2=0;
 return sumerrize;
 }
 ```
-6. My English level: B1-B2
+6. My English level: B2
